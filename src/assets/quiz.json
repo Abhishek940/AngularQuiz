@@ -1,0 +1,26 @@
+   {
+
+   "quiz": [
+   {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": 3
+   },
+
+   {
+      "id": 2,
+      "question": "Which programming language is used for web development?",
+      "options": ["Python", "JavaScript", "C++", "Java"],
+      "answer": 2
+   },
+
+   {
+      "id": 3,
+      "question": "Which programming language is used for web development?",
+      "options": ["Python", "JavaScript", "C++", "Java"],
+      "answer": 2
+      }
+      
+   ]
+   }
